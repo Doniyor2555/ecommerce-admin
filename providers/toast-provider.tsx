@@ -1,6 +1,6 @@
-import { Toast } from "react-hot-toast";
+import { Toaster } from "react-hot-toast";
 
 
 export const ToastProvider = () => {
-  return <ToastProvider/>
+  return <Toaster/>
 }
