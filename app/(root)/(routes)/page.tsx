@@ -15,11 +15,7 @@ const SetupPage = () => {
     }
   }, [isOpen, onOpen])
 
-  return (
-     <div>
-
-     </div>
-  )
+  return null
 }
 
 
